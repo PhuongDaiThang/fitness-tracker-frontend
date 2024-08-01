@@ -1,0 +1,27 @@
+/* src/components/ActivityList.css */
+
+.activity-list {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.activity-list h2 {
+    margin-bottom: 10px;
+}
+
+.activity-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.activity-list li {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 0;
+    border-bottom: 1px solid #ddd;
+}
+
+.activity-list button {
+    margin-left: 5px;
+}
+

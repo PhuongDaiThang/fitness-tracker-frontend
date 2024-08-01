@@ -1,0 +1,25 @@
+.add-goal-form {
+    display: flex;
+    flex-direction: column;
+    margin: 1em 0;
+}
+
+.add-goal-form input {
+    margin: 0.5em 0;
+    padding: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.add-goal-form button {
+    padding: 0.5em;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
+
+.add-goal-form button:hover {
+    background-color: #0056b3;
+}

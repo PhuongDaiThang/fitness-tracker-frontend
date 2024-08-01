@@ -1,0 +1,15 @@
+.goal-list {
+    margin: 1em 0;
+}
+
+.goal-list ul {
+    list-style: none;
+    padding: 0;
+}
+
+.goal-list li {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5em;
+    border-bottom: 1px solid #ccc;
+}
